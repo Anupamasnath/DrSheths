@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-06T19:16:32 IST" name="Suite" finished-at="2023-07-06T19:17:50 IST" duration-ms="78054">
+    <groups>
+    </groups>
+    <test started-at="2023-07-06T19:16:32 IST" name="Test" finished-at="2023-07-06T19:17:50 IST" duration-ms="78054">
+      <class name="test.Searchtest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.Searchtest@121314f7]" started-at="2023-07-06T19:17:13 IST" name="setUp" finished-at="2023-07-06T19:17:33 IST" duration-ms="20720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test2()[pri:0, instance:test.Searchtest@121314f7]" started-at="2023-07-06T19:17:33 IST" name="test2" finished-at="2023-07-06T19:17:50 IST" duration-ms="17053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- test.Searchtest -->
+      <class name="test.Createacctest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.Createacctest@242b836]" started-at="2023-07-06T19:16:32 IST" name="setUp" finished-at="2023-07-06T19:16:55 IST" duration-ms="22417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:0, instance:test.Createacctest@242b836]" started-at="2023-07-06T19:16:55 IST" name="test1" finished-at="2023-07-06T19:17:13 IST" duration-ms="17784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- test.Createacctest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
